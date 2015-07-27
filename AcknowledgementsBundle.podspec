@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
     
   s.name         = "AcknowledgementsBundle"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "Easily add a Settings.bundle with CocoaPods acknowledgements to your iOS App."
   s.homepage     = "https://github.com/rivera-ernesto/AcknowledgmentsBundle"
   s.screenshots  = [ "http://rivera-ernesto.github.io/AcknowledgementsBundle/images/screenshot1.png",
