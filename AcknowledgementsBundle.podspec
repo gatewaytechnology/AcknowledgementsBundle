@@ -16,6 +16,6 @@ Pod::Spec.new do |s|
   s.preserve_paths  = "README.md"
   s.source_files    = 'Dummy.h'
   s.requires_arc    = true
-  s.resource_bundle = { 'Settings' => ['*.plist', '../Pods-acknowledgements.plist'] }
+  s.resource_bundle = { 'Settings' => ['*.plist', '../Pods-default-acknowledgements.plist'] }
 
 end
